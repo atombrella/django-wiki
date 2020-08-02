@@ -38,10 +38,6 @@ matrix:
     dist: bionic
     sudo: true
     env: DJANGO="3.0"
-  - python: 3.8
-    dist: bionic
-    sudo: true
-    env: DJANGO="3.1"
 
 
 install:
